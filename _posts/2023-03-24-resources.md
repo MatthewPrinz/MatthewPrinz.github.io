@@ -25,7 +25,7 @@ I will only recommend [Operating Systems: Three Easy Pieces](https://pages.cs.wi
 
 I have had the pleasure of taking a class by Yale Patt. It was the most difficult course I've taken in my life but one thing I genuinely appreciated were the tests. One thing I found at UT was that in science courses (I took introduction biochemistry, half a semester of organic chemistry, and biology) were that the tests weren't that bad - they tested if you *knew* the material. The tests in Computer Architecture tested if you could *apply* the material, which is a skill which I still use today. 
 
- The class I took is was an upper graduate course (involving designing something rather similar to the LC3 in the book). 
+ The class I took was an upper graduate course (involving designing something rather similar to the LC3 in the book). 
 
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) by Allen Downey is great for learning Python, even with no programming experience
 
