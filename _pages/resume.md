@@ -7,17 +7,18 @@ title: "Resume"
 
 [Bachelor of Science, Electrical and Computer Engineering, May 2021](https://utdirect.utexas.edu/apps/degree/degrees/nlogon/?s_last_name_read=&s_last_isn_read=&s_first_name_read=&s_first_isn_read=&s_first_time_sw=X&s_start_name=prinz%2C+matthew&s_start_page=Submit)
 
-Overall GPA: 3.54/4.00
-
 ## Experience
 
-**Software Engineer, Amazon.com Inc** Dates: June 2022-Current
+**Software Engineer 2, Amazon.com Inc** June 2024 - Current
+
+**Software Engineer, Amazon.com Inc** June 2022 - June 2024
+
+* Upgraded Spark application to increase fidelity of precomputed audience size from 24 hours to 1 hour using incremental data on AWS Step Functions and EMR
+* Onboarded Spark cache loader to AWS Step Functions due to AWS Data Pipeline deprecation 
+* Developed REST API for Amazon Ads audience creation backed by Fargate and DynamoDB, deployed through AWS CDK on CloudFormation using a CI/CD pipeline with onebox deployment, JUnit unit tests, and end-to-end integration testing
 
 
-* Developed REST API for Amazon Ads DSP backed by AWS Fargate and DynamoDB for $30M/year project, deployed through AWS CDK on CloudFormation using a CI/CD pipeline with onebox deployment, JUnit unit tests, and end-to-end integration testing
-
-
-**Software Engineer, L3Harris Technologies Inc** Dates: June 2021 - June 2022		     
+**Software Engineer, L3Harris Technologies Inc** June 2021 - June 2022		     
 
 *Team: Mission Communication Systems Products*						     
 * Extended rework of the User Admin panel by adding warnings, errors, and features that supported adding passengers alongside bug fixes and performance improvements
@@ -26,7 +27,7 @@ Overall GPA: 3.54/4.00
 
 * Developed over 1,900 lines of production-quality Java and SQL code, rigorously tested and peer reviewed
 
-**Software Engineering Co-op, L3Harris Technologies Inc** Dates: January 2020 August 2020				     
+**Software Engineering Co-op, L3Harris Technologies Inc** January 2020 August 2020				     
 *Team: Sensor Software, January 2020 - June 2020*
 * Implemented key feature of dwelling by enabling users to prioritize certain scans over others, with four different priority modes
 
@@ -36,15 +37,15 @@ Overall GPA: 3.54/4.00
 *Team: Common Intelligence Collection Systems Group, June 2020 - August 2020*
 * Finished implementing messaging service by doubling the amount of information available to the user
 
-**Project Leader, Rig Automation Performance Improvement in Drilling (RAPID)** Dates: January 2019 - May 2019
+**Project Leader, Rig Automation Performance Improvement in Drilling (RAPID)** January 2019 - May 2019
 
 * Used machine learning to process drilling memos and extract key data such as hole depth
 
 * Preprocessed text using NLP techniques such as stemming and regular expression tokenization
 
-* [Presented in February 2020 at the IADC/SPE International Drilling Conference and Exhibition](https://www.researchgate.net/publication/339372307_Auto-Suggestive_Real-Time_Classification_of_Driller_Memos_into_Activity_Codes_for_Invisible_Lost_Time_Analysis)]
+* [Presented in February 2020 at the IADC/SPE International Drilling Conference and Exhibition](https://www.researchgate.net/publication/339372307_Auto-Suggestive_Real-Time_Classification_of_Driller_Memos_into_Activity_Codes_for_Invisible_Lost_Time_Analysis)
 
-**Data Science Intern, RAPID** Dates: October 2018 - December 2018
+**Data Science Intern, RAPID** October 2018 - December 2018
 
 * Plotted DTW path between time, bit depth, differential pressure, bit torque, and bit RPM with focus on the minimum for use in unsupervised learning 
 
@@ -69,7 +70,7 @@ Overall GPA: 3.54/4.00
 
 Proficient: Python, Java
 
-Familiar: Linux (RHEL, Ubuntu), Git, TypeScript, SQL, C/C++, AWS CDK
+Familiar: Linux (RHEL, Ubuntu), Git, TypeScript, SQL, C/C++, AWS CDK (EMR, DynamoDB, S3, EC2, ECS, CloudFormation, Step Functions, Data Sync, IAM), Scala, Apache Spark
 
 ## Activities
 Eagle Scout: Lead book drive which sorted and donated 500 books to Overton Elementary
